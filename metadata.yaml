@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1566
     wikipedia: http://en.wikipedia.org/wiki/David_Starr_Jordan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18462#The-Story-of-the-Innumerable-Company-and-Other-Sketches
 gutenberg_issued: '2006-05-28'
 gutenberg_type: Text
 identifiers:
