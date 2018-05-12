@@ -1,0 +1,32 @@
+_repo: The-Story-of-the-Innumerable-Company-and-Other-Sketches_18462
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jordan, David Starr
+    alias: Jordan, D. S. (David Starr)
+    birthdate: 1851
+    deathdate: 1931
+    gutenberg_agent_id: '1566'
+    url: http://www.gutenberg.org/2009/agents/1566
+    wikipedia: http://en.wikipedia.org/wiki/David_Starr_Jordan
+description: ''
+gutenberg_issued: '2006-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18462'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+tableOfContents: The story of the innumerable company -- The story of the passion
+  -- The California of the padre -- The conquest of Jupiter Pen -- The last of the
+  Puritans -- A knight of the order of poets -- Nature-study and moral culture --
+  The higher sacrifice -- The bubbles of Sáki.
+title: The Story of the Innumerable Company, and Other Sketches
+url: http://www.gutenberg.org/ebooks/18462
